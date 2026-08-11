@@ -38,6 +38,7 @@
     vim
     wget
     curl
+    axel
     yazi
     btop
     fd
@@ -60,13 +61,11 @@
     gnumake
     gcc
 
-    axel
     hmcl
     ascii
     emacs-gtk
     neovim
     neovide
-    tuxedo
     super-productivity
     fastfetch
     xwayland-satellite
