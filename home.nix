@@ -77,16 +77,20 @@
         source = config.lib.file.mkOutOfStoreSymlink "/home/shorin/shorin_nixos_file/dotfile_config/nvim/";
         recursive = true;
     };
+
     xdg.configFile."noctalia" = {
         source = config.lib.file.mkOutOfStoreSymlink "/home/shorin/shorin_nixos_file/dotfile_config/noctalia/";
         recursive = true;
     };
+
     xdg.configFile."niri" = {
         source = config.lib.file.mkOutOfStoreSymlink "/home/shorin/shorin_nixos_file/dotfile_config/niri/";
         recursive = true;
     };
+
     xdg.configFile."yazi" = {
         source = config.lib.file.mkOutOfStoreSymlink "/home/shorin/shorin_nixos_file/dotfile_config/yazi/";
         recursive = true;
     };
+    
 }
