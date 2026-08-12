@@ -11,6 +11,7 @@
         fzf                    # 安装 fzf 本身
         bat
         fd                     # 添加 fd，用于文件搜索
+        nodejs
     ];
 
     programs.fzf = {

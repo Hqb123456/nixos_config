@@ -43,7 +43,6 @@
     btop
     fd
     tree-sitter
-    nodejs
     wmctrl
     xdotool
     ripgrep
