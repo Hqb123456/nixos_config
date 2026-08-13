@@ -1,9 +1,16 @@
-# Ignore build outputs from performing a nix-build or `nix build` command
-result
-result-*
-
-# Ignore automatically generated direnv output
-.direnv
-
-# Ignore NixOS interactive test driver history
-**/.nixos-test-history
+.config/QQ/
+.config/mozilla/
+.config/bilibili/Cache/
+.config/JetBrains/*/tasks/*.zip
+*.zip
+*.node
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.so
+*.jar
+*.dmp
+*.xpi
+*.asar
+.config/nvim.bak/.git/
+**/.git/
