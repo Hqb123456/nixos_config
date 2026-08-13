@@ -1,0 +1,7 @@
+{
+  "defaultDownloadPath": "/home/shorin/视频/bilibili",
+  "pkgChid": "official",
+  "reportSuccess": true,
+  "chid": "official",
+  "localServer": "http://localhost:22331"
+}

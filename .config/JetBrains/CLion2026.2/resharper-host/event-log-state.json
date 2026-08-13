@@ -1,0 +1,27 @@
+﻿{
+  "update": {
+    "FUS": 639218450440000000
+  },
+  "dict_list_update": {
+    "FUS": 639081764200000000
+  },
+  "dict_update": {
+    "FUS": {
+      "composer_packages.ndjson": 639214130870000000,
+      "crate_names.ndjson": 638821010790000000,
+      "dotnet_technologies.ndjson": 638821010790000000,
+      "grazie_rule_ids.ndjson": 638821010790000000,
+      "grazie_rule_long_ids.ndjson": 638979866970000000,
+      "ktor_feature_ids.ndjson": 639190803480000000,
+      "look_and_feel.ndjson": 638821010790000000,
+      "python_packages.ndjson": 639215858400000000
+    }
+  },
+  "options": {
+    "FUS": {
+      "groupDataThreshold": "10000",
+      "dataThreshold": "15000",
+      "groupAlertThreshold": "6000"
+    }
+  }
+}

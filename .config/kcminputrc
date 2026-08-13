@@ -1,0 +1,13 @@
+[Libinput][1133][16552][Logitech PRO 2 MOUSE]
+PointerAcceleration=-0.200
+PointerAccelerationProfile=1
+
+[Libinput][4661][43554][BT5.2 Mouse]
+PointerAcceleration=0.270
+PointerAccelerationProfile=1
+
+[Libinput][7247][52][SIGMACHIP Usb Mouse]
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

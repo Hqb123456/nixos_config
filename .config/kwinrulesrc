@@ -1,0 +1,22 @@
+[0d7eb80d-4391-4a62-b9f2-5511b8723c19]
+Description=awa
+maximizehoriz=true
+maximizehorizrule=2
+maximizevert=true
+maximizevertrule=2
+noborder=true
+noborderrule=2
+types=1
+wmclass=emacs-30.2 emacs
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=0d7eb80d-4391-4a62-b9f2-5511b8723c19
+
+[d6f7c9f4-1ccc-4653-a308-4c253239b4dd]
+ignoregeometryrule=2
+maximizehorizrule=2
+maximizevertrule=2
+noborderrule=2

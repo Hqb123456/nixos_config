@@ -1,0 +1,71 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd'>
+<Menu>
+ <Layout>
+  <Merge type="menus"/>
+  <Menuname>Office</Menuname>
+  <Menuname>Help</Menuname>
+  <Menuname>Utilities</Menuname>
+  <Menuname>Internet</Menuname>
+  <Menuname>Education</Menuname>
+  <Menuname>Development</Menuname>
+  <Menuname>Science</Menuname>
+  <Menuname>Graphics</Menuname>
+  <Menuname>System</Menuname>
+  <Menuname>Multimedia</Menuname>
+  <Menuname>Games</Menuname>
+  <Menuname>Applications</Menuname>
+ </Layout>
+ <Menu>
+  <Name>wine-wine</Name>
+  <Deleted/>
+ </Menu>
+ <Menu>
+  <Name>Utilities</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>XUtilities</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.plasma.emojier.desktop</Filename>
+   <Filename>kbd-layout-viewer5.desktop</Filename>
+   <Filename>org.kde.ark.desktop</Filename>
+   <Filename>emacsclient.desktop</Filename>
+   <Filename>emacs.desktop</Filename>
+   <Filename>org.fcitx.Fcitx5.desktop</Filename>
+   <Filename>org.kde.kate.desktop</Filename>
+   <Filename>org.kde.kwrite.desktop</Filename>
+   <Filename>org.kde.qrca.desktop</Filename>
+   <Filename>org.kde.spectacle.desktop</Filename>
+   <Filename>vim.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>wechat.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Internet</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Terminal</Menuname>
+   <Merge type="files"/>
+   <Filename>firefox.desktop</Filename>
+   <Filename>com.qq.QQ.desktop</Filename>
+   <Filename>wechat.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Include>
+   <Filename>wechat.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>微信.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>.hidden</Name>
+  <Include>
+   <Filename>微信.desktop</Filename>
+  </Include>
+ </Menu>
+</Menu>

@@ -1,0 +1,16 @@
+[General]
+BackgroundColorMode=DocumentView::Dark
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/图片/Wallpapers/1920x1080.png
+Name1[$e]=1920x1080.png
+
+[SideBar]
+InformationSplitterSizes=209,246
+IsVisible ViewMode=true
+SideBarSplitterSizes=200,1719

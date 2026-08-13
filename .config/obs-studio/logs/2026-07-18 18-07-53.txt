@@ -1,0 +1,200 @@
+18:07:53.838: Platform: Wayland
+18:07:53.838: CPU Name: 13th Gen Intel(R) Core(TM) i7-13650HX
+18:07:53.838: CPU Speed: 1119.563MHz
+18:07:53.838: Physical Cores: 14, Logical Cores: 20
+18:07:53.838: Physical Memory: 23751MB Total, 5672MB Free
+18:07:53.838: Kernel Version: Linux 7.1.0
+18:07:53.838: Distribution: NixOS "26.11"
+18:07:53.838: Desktop Environment: niri (niri)
+18:07:53.838: Session Type: wayland
+18:07:53.841: Current Date/Time: 2026-07-18, 18时07分53秒
+18:07:53.841: Browser Hardware Acceleration: true
+18:07:53.841: Qt Version: 6.11.0 (runtime), 6.11.0 (compiled)
+18:07:53.841: Portable mode: false
+18:07:53.976: OBS 32.1.2 (linux)
+18:07:53.976: ---------------------------------
+18:07:53.978: ---------------------------------
+18:07:53.978: audio settings reset:
+18:07:53.978: 	samples per sec: 48000
+18:07:53.978: 	speakers:        2
+18:07:53.978: 	max buffering:   960 milliseconds
+18:07:53.978: 	buffering type:  dynamically increasing
+18:07:53.981: ---------------------------------
+18:07:53.981: Initializing OpenGL...
+18:07:53.981: Using EGL/Wayland
+18:07:54.042: Initialized EGL 1.5
+18:07:54.060: Loading up OpenGL on adapter Intel Mesa Intel(R) Graphics (RPL-S)
+18:07:54.060: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.1.2, shading language 4.60
+18:07:54.095: ---------------------------------
+18:07:54.095: video settings reset:
+18:07:54.095: 	base resolution:   1920x1080
+18:07:54.095: 	output resolution: 1280x720
+18:07:54.095: 	downscale filter:  Bicubic
+18:07:54.095: 	fps:               30/1
+18:07:54.095: 	format:            NV12
+18:07:54.095: 	YUV mode:          Rec. 709/Partial
+18:07:54.095: NV12 texture support enabled
+18:07:54.095: P010 texture support not available
+18:07:54.103: Audio monitoring device:
+18:07:54.103: 	name: 默认
+18:07:54.103: 	id: default
+18:07:54.107: ---------------------------------
+18:07:54.114: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:07:54.118: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+18:07:54.121: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:07:54.121: Failed to initialize module 'decklink.so'
+18:07:54.501: [pipewire] Available capture sources:
+18:07:54.501: [pipewire]     - Monitor source
+18:07:54.501: [pipewire]     - Window source
+18:07:54.519: v4l2loopback not installed, virtual camera not registered
+18:07:54.527: [obs-browser]: Version 2.26.8
+18:07:54.527: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.0.0-6533-fix-stutter-and-osr-extra-info.3042+g176b09c+chromium-127.0.6533.120 (compiled)
+18:07:54.558: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+18:07:54.559: FFmpeg VAAPI H264 encoding not supported
+18:07:54.559: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+18:07:54.559: FFmpeg VAAPI AV1 encoding not supported
+18:07:54.559: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+18:07:54.559: FFmpeg VAAPI HEVC encoding not supported
+18:07:54.596: [NVENC] Test process failed: nvenc_lib
+18:07:54.596: NVENC not supported
+18:07:54.596: Failed to initialize module 'obs-nvenc.so'
+18:07:54.673: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+18:07:54.673: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.0 | Qt version (run-time): 6.11.0
+18:07:54.673: [obs-websocket] [obs_module_load] Linked ASIO Version: 103800
+18:07:54.699: [obs-websocket] [obs_module_load] Module loaded.
+18:07:54.719: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+18:07:54.719: ---------------------------------
+18:07:54.719:   Loaded Modules:
+18:07:54.719:     vlc-video.so
+18:07:54.719:     text-freetype2.so
+18:07:54.719:     rtmp-services.so
+18:07:54.719:     obs-x264.so
+18:07:54.719:     obs-websocket.so
+18:07:54.719:     obs-webrtc.so
+18:07:54.719:     obs-vst.so
+18:07:54.719:     obs-transitions.so
+18:07:54.719:     obs-qsv11.so
+18:07:54.719:     obs-outputs.so
+18:07:54.719:     obs-libfdk.so
+18:07:54.719:     obs-filters.so
+18:07:54.719:     obs-ffmpeg.so
+18:07:54.719:     obs-browser.so
+18:07:54.720:     linux-v4l2.so
+18:07:54.720:     linux-pulseaudio.so
+18:07:54.720:     linux-pipewire.so
+18:07:54.720:     linux-jack.so
+18:07:54.720:     linux-capture.so
+18:07:54.720:     linux-alsa.so
+18:07:54.720:     image-source.so
+18:07:54.720:     frontend-tools.so
+18:07:54.720:     decklink-output-ui.so
+18:07:54.720:     decklink-captions.so
+18:07:54.720: ---------------------------------
+18:07:54.720: ---------------------------------
+18:07:54.720: Available Encoders:
+18:07:54.720:   Video Encoders:
+18:07:54.720: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:07:54.721: 	- ffmpeg_aom_av1 (AOM AV1)
+18:07:54.721: 	- obs_x264 (x264)
+18:07:54.721:   Audio Encoders:
+18:07:54.721: 	- ffmpeg_aac (FFmpeg AAC)
+18:07:54.721: 	- ffmpeg_opus (FFmpeg Opus)
+18:07:54.721: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16位))
+18:07:54.721: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24位))
+18:07:54.721: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32位浮点))
+18:07:54.721: 	- ffmpeg_alac (FFmpeg ALAC (24位))
+18:07:54.721: 	- ffmpeg_flac (FFmpeg FLAC (16位))
+18:07:54.721: 	- libfdk_aac (libfdk AAC)
+18:07:54.721: ==== Startup complete ===============================================
+18:07:54.792: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+18:07:54.793: All scene data cleared
+18:07:54.793: ------------------------------------------------
+18:07:54.805: Device for 'Audio Output Capture' source 桌面音频 is also used for audio monitoring.
+18:07:54.805: Deduplication logic is being applied to all monitored sources.
+18:07:54.806: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.5) 15.0.0'
+18:07:54.806: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:07:54.806: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+18:07:54.807: [Loaded global audio device]: '桌面音频'
+18:07:54.808: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.5) 15.0.0'
+18:07:54.808: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:07:54.808: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+18:07:54.808: [Loaded global audio device]: '麦克风/Aux'
+18:07:54.808: PipeWire initialized
+18:07:54.811: Switched to scene '场景'
+18:07:54.811: ------------------------------------------------
+18:07:54.811: Loaded scenes:
+18:07:54.811: - scene '场景':
+18:07:54.811:     - source: '屏幕采集(PipeWire)' (pipewire-screen-capture-source)
+18:07:54.811: ------------------------------------------------
+18:07:54.894: Device for 'Audio Output Capture' source 桌面音频 is also used for audio monitoring.
+18:07:54.894: Deduplication logic is being applied to all monitored sources.
+18:07:54.952: [pipewire] Screencast session created
+18:07:54.994: [pipewire] Asking for monitor and window
+18:07:55.044: [pipewire] source selected, setting up screencast
+18:07:55.058: [pipewire] Server version: 1.6.5
+18:07:55.058: [pipewire] Library version: 1.6.5
+18:07:55.058: [pipewire] Header version: 1.6.5
+18:07:55.058: [pipewire] Created stream 0x5babe241c0c0
+18:07:55.058: [pipewire] Stream 0x5babe241c0c0 state: "connecting" (error: none)
+18:07:55.060: [pipewire] Playing stream 0x5babe241c0c0
+18:07:55.061: [pipewire] Stream 0x5babe241c0c0 state: "paused" (error: none)
+18:07:55.073: [pipewire] Negotiated format:
+18:07:55.073: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:07:55.073: [pipewire]     Modifier: 0x0
+18:07:55.073: [pipewire]     Size: 1920x1080
+18:07:55.073: [pipewire]     Framerate: 0/1
+18:07:55.074: [pipewire] Negotiated format:
+18:07:55.074: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:07:55.074: [pipewire]     Modifier: 0x100000000000008
+18:07:55.074: [pipewire]     Size: 1920x1080
+18:07:55.074: [pipewire]     Framerate: 0/1
+18:07:55.116: [pipewire] Stream 0x5babe241c0c0 state: "streaming" (error: none)
+18:07:55.429: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: 桌面音频)
+18:07:55.429: 
+18:07:55.472: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: 麦克风/Aux)
+18:07:55.472: 
+18:08:01.627: ---------------------------------
+18:08:01.628: [x264 encoder: 'simple_video_recording'] preset: veryfast
+18:08:01.628: [x264 encoder: 'simple_video_recording'] profile: high
+18:08:01.629: [x264 encoder: 'simple_video_recording'] settings:
+18:08:01.629: 	rate_control: CRF
+18:08:01.629: 	bitrate:      0
+18:08:01.629: 	buffer size:  0
+18:08:01.629: 	crf:          21
+18:08:01.629: 	fps_num:      30
+18:08:01.629: 	fps_den:      1
+18:08:01.629: 	width:        1280
+18:08:01.629: 	height:       720
+18:08:01.629: 	keyint:       250
+18:08:01.629: 
+18:08:01.640: libfdk_aac encoder created
+18:08:01.640: libfdk_aac bitrate: 192, channels: 2
+18:08:01.730: ==== Recording Start ===============================================
+18:08:01.730: [mp4 output: 'simple_file_output'] Writing Hybrid MP4/MOV file '/home/shorin/视频/2026-07-18 18-08-01.mp4'...
+18:21:24.249: [pipewire] Stream 0x5babe241c0c0 state: "paused" (error: none)
+18:21:24.260: [pipewire] Error id:0 seq:293 res:-32 (断开的管道): connection error
+18:21:24.260: [pipewire] Stream 0x5babe241c0c0 state: "unconnected" (error: connection error)
+19:39:01.637: [mp4 muxer: 'simple_file_output'] Flushing final fragment...
+19:39:01.639: [mp4 muxer: 'simple_file_output'] Number of fragments: 657
+19:39:01.692: [mp4 muxer: 'simple_file_output'] Full moov size: 2928 KiB
+19:39:01.692: [mp4 muxer: 'simple_file_output'] Final mdat size: 232826 KiB
+19:39:01.692: Output 'simple_file_output': stopping
+19:39:01.692: Output 'simple_file_output': Total frames output: 163763
+19:39:01.692: Output 'simple_file_output': Total drawn frames: 163799
+19:39:01.693: [mp4 output: 'simple_file_output'] Waiting for file writer to finish...
+19:39:01.694: ==== Recording Stop ================================================
+19:39:01.694: [mp4 output: 'simple_file_output'] File output complete. Finalization took 56 ms.
+19:39:01.708: libfdk_aac encoder destroyed
+19:40:21.908: ==== Shutting down ==================================================
+19:40:21.920: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+19:40:21.920: pulse-input: Got 32372 packets with 38846400 frames
+19:40:21.920: Deduplication logic stopped.
+19:40:21.920: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+19:40:21.921: pulse-input: Got 32372 packets with 38846400 frames
+19:40:21.947: All scene data cleared
+19:40:21.948: ------------------------------------------------
+19:40:22.014: [obs-websocket] [obs_module_unload] Shutting down...
+19:40:22.014: Tried to call obs_frontend_remove_event_callback with no callbacks!
+19:40:22.014: [obs-websocket] [obs_module_unload] Finished shutting down.
+19:40:22.022: [Scripting] Total detached callbacks: 0
+19:40:22.023: Freeing OBS context data

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Game
+Comment=Minecraft Launcher which is multi-functional, cross-platform and popular
+Exec=nvidia-offload hmcl
+Icon=hmcl
+Name=HMCL
+Type=Application
+Version=1.5
+X-XFCE-Source=file:///nix/store/fnxlg0a7swq6jp7b776jwhr7i8js9vgd-hmcl-3.16.3/share/applications/HMCL.desktop
+Path=
+Terminal=false
+StartupNotify=true

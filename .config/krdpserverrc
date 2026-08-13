@@ -1,0 +1,5 @@
+[General]
+Autostart=true
+Certificate=/home/shorin/.local/share/krdpserver/krdp.crt
+CertificateKey=/home/shorin/.local/share/krdpserver/krdp.key
+Quality=50

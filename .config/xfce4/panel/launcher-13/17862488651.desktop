@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=exo-open --launch TerminalEmulator
+Icon=org.xfce.terminalemulator
+StartupNotify=true
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+Keywords[zh_CN]=终端;命令行;shell;控制台;xfce;
+Keywords=terminal;command line;shell;console;xfce;
+OnlyShowIn=XFCE;
+X-AppStream-Ignore=True
+Name[zh_CN]=终端模拟器
+Name=Terminal Emulator
+Comment[zh_CN]=使用命令行
+Comment=Use the command line
+X-XFCE-Source=file:///nix/store/iqm3jda24wrbfj4iiby8x1z6p9508204-xfce4-settings-4.20.5/share/applications/xfce4-terminal-emulator.desktop

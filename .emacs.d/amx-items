@@ -1,0 +1,34 @@
+
+;; ----- amx-history -----
+(
+ term
+ magit
+ lsp-disconnect
+ recompile
+ compile
+ eval-buffer
+ make-face
+)
+
+;; ----- amx-data -----
+(
+ (eaf-open-git . 1)
+ (calc . 1)
+ (term . 12)
+ (5x5 . 1)
+ (arp . 1)
+ (eww . 2)
+ (eaf-open-browser . 4)
+ (eaf-open . 3)
+ (compile . 44)
+ (recompile . 39)
+ (lsp-disconnect . 6)
+ (company-tempo . 1)
+ (customize-icon . 1)
+ (eaf-kill-process . 1)
+ (consult-theme . 1)
+ (eval-buffer . 9)
+ (customize-themes . 1)
+ (make-face . 1)
+ (magit . 4)
+)

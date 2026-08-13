@@ -1,0 +1,5 @@
+===================================================
+Persepolis Download Manager, 2026/06/18 20:56:40
+2026-06-18 20:56:42,441 - errors - ERROR - Notification sounds are not available
+2026-06-18 20:57:12,489 - errors - ERROR - Error - 'content-length' - GID: 1a17250cacd0b809
+2026-06-18 20:57:12,491 - errors - ERROR - Server dosn't support multi thread downloading and resuming download! - GID: 1a17250cacd0b809

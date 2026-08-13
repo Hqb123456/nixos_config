@@ -1,0 +1,388 @@
+[2026-07-25 21:52:28.273] [info]                    Initializing plugin node executor
+[2026-07-25 21:52:28.285] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-07-25 21:52:28.587] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-07-25 21:52:28.594] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: true,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'wayland',
+  currentDesktop: 'niri',
+  waylandDisplay: 'wayland-1'
+}
+[2026-07-25 21:52:28.595] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-07-25 21:52:28.595] [debug] (IdleTimeHandler) Testing waylandIdleNotify...
+[2026-07-25 21:52:28.607] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-07-25 21:52:28.618] [info]  (IdleTimeHandler) Selected waylandIdleNotify for idle detection
+[2026-07-25 21:52:28.618] [info]  (IdleTimeHandler) Idle detection method ready: waylandIdleNotify
+[2026-07-25 21:52:29.603] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-07-25 21:52:31.010] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:52:31.122] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:52:58.623] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:53:28.643] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:53:49.644] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:53:56.775] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:53:58.645] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:54:28.654] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:54:58.661] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:55:06.279] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:55:16.950] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-07-25 21:55:28.672] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:55:58.676] [debug]                   🕘 Idle check (idle=0ms, method=waylandIdleNotify, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-07-25 21:56:11.564] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-07-25 21:56:11.565] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-07-25 21:56:11.571] [info]                    Quit after all windows being closed
+[2026-07-25 21:56:11.571] [info]                    App before-quit: isQuiting= true
+[2026-08-11 10:03:07.947] [info]                    Initializing plugin node executor
+[2026-08-11 10:03:07.954] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-08-11 10:03:08.979] [info]                    Cleared GPUCache after Electron upgrade (41.9.1 -> 41.10.3)
+[2026-08-11 10:03:08.981] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-08-11 10:03:08.988] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: false,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'x11',
+  currentDesktop: 'XFCE'
+}
+[2026-08-11 10:03:08.989] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-08-11 10:03:08.989] [debug] (IdleTimeHandler) Using powerMonitor for non-Wayland session
+[2026-08-11 10:03:08.989] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-08-11 10:03:08.990] [info]  (IdleTimeHandler) Idle detection method ready: powerMonitor
+[2026-08-11 10:03:09.005] [info]                    [clearStaleLevelDbLocks] Removed stale lock: /home/shorin/.config/superProductivity/IndexedDB/file__0.indexeddb.leveldb/LOCK
+[2026-08-11 10:03:09.986] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-08-11 10:03:11.385] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:03:11.414] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:03:39.006] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:03:57.423] [info]                    Hiding task widget
+[2026-08-11 10:04:00.497] [info]                    Hiding task widget
+[2026-08-11 10:04:00.568] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-08-11 10:04:00.572] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-08-11 10:04:00.583] [info]                    Quit after all windows being closed
+[2026-08-11 10:04:00.583] [info]                    App before-quit: isQuiting= true
+[2026-08-11 10:04:04.901] [info]                    Initializing plugin node executor
+[2026-08-11 10:04:04.903] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-08-11 10:04:04.975] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-08-11 10:04:04.979] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: false,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'x11',
+  currentDesktop: 'XFCE'
+}
+[2026-08-11 10:04:04.980] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-08-11 10:04:04.980] [debug] (IdleTimeHandler) Using powerMonitor for non-Wayland session
+[2026-08-11 10:04:04.981] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-08-11 10:04:04.982] [info]  (IdleTimeHandler) Idle detection method ready: powerMonitor
+[2026-08-11 10:04:04.992] [info]                    [clearStaleLevelDbLocks] Removed stale lock: /home/shorin/.config/superProductivity/IndexedDB/file__0.indexeddb.leveldb/LOCK
+[2026-08-11 10:04:05.708] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-08-11 10:04:07.094] [info]                    Hiding task widget
+[2026-08-11 10:04:07.131] [info]                    Task widget already hidden
+[2026-08-11 10:04:21.364] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:04:21.365] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:04:21.368] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:04:21.369] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:04:34.995] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:05:04.998] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:05:17.362] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-08-11 10:05:17.364] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-08-11 10:05:17.377] [info]                    Quit after all windows being closed
+[2026-08-11 10:05:17.377] [info]                    App before-quit: isQuiting= true
+[2026-08-11 10:07:02.701] [info]                    Initializing plugin node executor
+[2026-08-11 10:07:02.706] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-08-11 10:07:02.790] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-08-11 10:07:02.794] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: false,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'x11',
+  currentDesktop: 'XFCE'
+}
+[2026-08-11 10:07:02.795] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-08-11 10:07:02.795] [debug] (IdleTimeHandler) Using powerMonitor for non-Wayland session
+[2026-08-11 10:07:02.796] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-08-11 10:07:02.797] [info]  (IdleTimeHandler) Idle detection method ready: powerMonitor
+[2026-08-11 10:07:02.806] [info]                    [clearStaleLevelDbLocks] Removed stale lock: /home/shorin/.config/superProductivity/IndexedDB/file__0.indexeddb.leveldb/LOCK
+[2026-08-11 10:07:03.057] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:07:03.701] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-08-11 10:07:04.912] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:07:32.824] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:08:00.802] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:08:02.825] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:08:32.827] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:09:02.834] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:09:32.865] [debug]                   🕘 Idle check (idle=12000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:10:02.875] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:10:32.906] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:11:02.937] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:11:32.967] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:12:02.997] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:12:33.022] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:13:03.052] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:13:33.082] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:14:03.086] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:14:33.116] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:15:01.402] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:15:03.118] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:15:33.148] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:16:03.178] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:16:33.208] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:17:03.238] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:17:33.268] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:18:03.285] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:18:33.315] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:19:03.346] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:19:33.376] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:20:03.405] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:20:33.435] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:21:03.465] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:21:33.490] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:22:03.507] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:22:33.537] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:23:03.568] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:23:22.630] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:22.630] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:22.634] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:22.636] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:25.187] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:25.188] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:23:33.577] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:24:03.607] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:24:33.616] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:25:03.647] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:25:33.678] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:26:03.684] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:26:33.715] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:27:03.734] [debug]                   🕘 Idle check (idle=13000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:27:33.753] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:28:03.783] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:28:33.815] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:29:03.845] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:29:33.876] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:30:03.907] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:30:33.938] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:31:03.961] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:31:33.992] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:32:04.022] [debug]                   🕘 Idle check (idle=4000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:32:34.054] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:33:04.073] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:33:34.104] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:34:04.127] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:34:34.157] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:35:04.183] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:35:34.213] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:36:00.512] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:36:00.513] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:36:04.217] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:36:34.234] [debug]                   🕘 Idle check (idle=12000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:37:04.265] [debug]                   🕘 Idle check (idle=42000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:37:34.296] [debug]                   🕘 Idle check (idle=72000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=sent)
+[2026-08-11 10:38:04.327] [debug]                   🕘 Idle check (idle=102000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=sent)
+[2026-08-11 10:38:34.357] [debug]                   🕘 Idle check (idle=132000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:39:04.388] [debug]                   🕘 Idle check (idle=162000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:39:34.418] [debug]                   🕘 Idle check (idle=192000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=sent)
+[2026-08-11 10:40:04.449] [debug]                   🕘 Idle check (idle=222000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:40:34.480] [debug]                   🕘 Idle check (idle=252000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:41:04.511] [debug]                   🕘 Idle check (idle=282000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:41:34.542] [debug]                   🕘 Idle check (idle=312000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=sent)
+[2026-08-11 10:41:36.047] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:41:36.062] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:42:04.571] [debug]                   🕘 Idle check (idle=342000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:42:34.595] [debug]                   🕘 Idle check (idle=372000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:43:04.626] [debug]                   🕘 Idle check (idle=402000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=sent)
+[2026-08-11 10:43:34.628] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:44:04.648] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:44:08.409] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:44:34.668] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:45:04.698] [debug]                   🕘 Idle check (idle=8000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:45:23.773] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:45:34.711] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:46:04.741] [debug]                   🕘 Idle check (idle=22000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:46:34.754] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:47:04.784] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:47:34.815] [debug]                   🕘 Idle check (idle=19000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:48:04.823] [debug]                   🕘 Idle check (idle=49000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:48:34.854] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:49:04.871] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:49:34.901] [debug]                   🕘 Idle check (idle=18000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:50:04.931] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:50:34.961] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:51:04.992] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-11 10:51:23.045] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-11 10:51:25.202] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-08-11 10:51:25.203] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-08-11 10:51:25.212] [info]                    Quit after all windows being closed
+[2026-08-11 10:51:25.213] [info]                    App before-quit: isQuiting= true
+[2026-08-12 19:24:52.424] [info]                    Initializing plugin node executor
+[2026-08-12 19:24:52.432] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-08-12 19:24:52.682] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-08-12 19:24:52.689] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: false,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'x11',
+  currentDesktop: 'XFCE'
+}
+[2026-08-12 19:24:52.690] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-08-12 19:24:52.690] [debug] (IdleTimeHandler) Using powerMonitor for non-Wayland session
+[2026-08-12 19:24:52.691] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-08-12 19:24:52.692] [info]  (IdleTimeHandler) Idle detection method ready: powerMonitor
+[2026-08-12 19:24:52.710] [info]                    [clearStaleLevelDbLocks] Removed stale lock: /home/shorin/.config/superProductivity/IndexedDB/file__0.indexeddb.leveldb/LOCK
+[2026-08-12 19:24:52.899] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:24:53.639] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-08-12 19:24:54.802] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:25:22.721] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:25:39.257] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:25:39.258] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:25:52.730] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:26:22.761] [debug]                   🕘 Idle check (idle=6000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:26:52.792] [debug]                   🕘 Idle check (idle=18000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:27:22.823] [debug]                   🕘 Idle check (idle=49000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:27:52.854] [debug]                   🕘 Idle check (idle=79000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=sent)
+[2026-08-12 19:28:09.306] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:28:11.189] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:28:22.865] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:28:24.926] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:28:24.927] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:28:37.060] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:28:52.881] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:29:22.885] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:29:52.897] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:30:22.915] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:30:52.945] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:31:22.954] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:31:52.984] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:32:23.014] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:32:53.032] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:33:23.062] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:33:36.843] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:33:53.074] [debug]                   🕘 Idle check (idle=10000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:34:23.104] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:34:53.113] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:35:23.143] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:35:53.173] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:36:23.198] [debug]                   🕘 Idle check (idle=8000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:36:53.228] [debug]                   🕘 Idle check (idle=4000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:37:23.242] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:37:53.272] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:38:23.302] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:38:53.331] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:39:23.361] [debug]                   🕘 Idle check (idle=33000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:39:53.376] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:40:23.406] [debug]                   🕘 Idle check (idle=25000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:40:53.408] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:41:23.438] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:41:30.311] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:41:53.454] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:42:23.485] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:42:25.379] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:42:53.488] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:43:23.518] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:43:53.548] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:44:23.567] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:44:53.597] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:45:23.614] [debug]                   🕘 Idle check (idle=4000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:45:53.644] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:46:23.644] [debug]                   🕘 Idle check (idle=5000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:46:53.675] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:47:23.705] [debug]                   🕘 Idle check (idle=16000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:47:53.724] [debug]                   🕘 Idle check (idle=27000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:48:23.754] [debug]                   🕘 Idle check (idle=57000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:48:53.754] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:49:23.784] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:49:33.324] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:49:34.014] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:49:34.637] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:49:53.804] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:50:12.252] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:50:23.814] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:50:35.368] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:50:53.831] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:51:23.836] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:51:53.839] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:52:23.869] [debug]                   🕘 Idle check (idle=31000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:52:53.899] [debug]                   🕘 Idle check (idle=9000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:53:23.919] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:53:53.248] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:53:53.920] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:53:56.533] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:54:23.928] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:54:53.959] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=2ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:55:23.961] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:55:53.990] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:56:24.021] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:56:28.882] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:56:32.693] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:56:47.759] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:56:54.029] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:57:24.036] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:57:54.067] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:58:01.110] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:58:20.842] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 19:58:24.070] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:58:54.100] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:59:24.106] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 19:59:54.136] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:00:24.166] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:00:54.192] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:01:24.222] [debug]                   🕘 Idle check (idle=4000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:01:54.236] [debug]                   🕘 Idle check (idle=34000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:02:24.266] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:02:54.277] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:03:24.307] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:03:54.337] [debug]                   🕘 Idle check (idle=10000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:04:24.367] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:04:39.983] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:04:40.711] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:04:54.381] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:05:24.400] [debug]                   🕘 Idle check (idle=9000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:05:54.430] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:06:24.436] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:06:54.466] [debug]                   🕘 Idle check (idle=2000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:07:24.470] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:07:54.500] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:08:24.530] [debug]                   🕘 Idle check (idle=1000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:08:54.550] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:09:03.737] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:09:04.376] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:09:24.570] [debug]                   🕘 Idle check (idle=12000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:09:54.581] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:10:24.611] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:10:54.645] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=5ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:11:24.670] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:11:54.700] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:12:24.707] [debug]                   🕘 Idle check (idle=8000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:12:54.710] [debug]                   🕘 Idle check (idle=13000ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:13:24.712] [debug]                   🕘 Idle check (idle=43000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:13:54.724] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:14:24.754] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:14:54.773] [debug]                   🕘 Idle check (idle=3000ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:15:24.803] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=1ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:15:54.809] [debug]                   🕘 Idle check (idle=0ms, method=powerMonitor, duration=0ms, threshold=60000ms, action=skipped:below-threshold)
+[2026-08-12 20:15:56.103] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:15:58.061] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:15:58.067] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:16:14.515] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-08-12 20:16:14.516] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-08-12 20:16:14.526] [info]                    Quit after all windows being closed
+[2026-08-12 20:16:14.526] [info]                    App before-quit: isQuiting= true
+[2026-08-12 20:16:18.543] [info]                    Initializing plugin node executor
+[2026-08-12 20:16:18.545] [info]                    { enabled: null, showDevTools: false, mode: 'bottom' }
+[2026-08-12 20:16:18.598] [info]                    Saving backups to /home/shorin/.config/superProductivity/backups
+[2026-08-12 20:16:18.600] [debug] (IdleTimeHandler) Environment detection: {
+  isWayland: false,
+  isGnomeWayland: false,
+  isSnap: false,
+  sessionType: 'x11',
+  currentDesktop: 'XFCE'
+}
+[2026-08-12 20:16:18.600] [debug] (IdleTimeHandler) Determining idle detection method...
+[2026-08-12 20:16:18.601] [debug] (IdleTimeHandler) Using powerMonitor for non-Wayland session
+[2026-08-12 20:16:18.601] [info]                    🚀 Starting idle time tracking (interval: 30000ms, threshold: 60000ms)
+[2026-08-12 20:16:18.601] [info]  (IdleTimeHandler) Idle detection method ready: powerMonitor
+[2026-08-12 20:16:18.606] [info]                    [clearStaleLevelDbLocks] Removed stale lock: /home/shorin/.config/superProductivity/IndexedDB/file__0.indexeddb.leveldb/LOCK
+[2026-08-12 20:16:18.668] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:16:19.339] [info]                    No custom styles detected at /home/shorin/.config/superProductivity/styles.css
+[2026-08-12 20:16:20.736] [info]                    Task widget hide skipped: window=false, enabled=false
+[2026-08-12 20:16:24.727] [info]                    close event: isQuiting= false pendingBeforeCloseIds= []
+[2026-08-12 20:16:24.728] [info]                    close event: isQuiting= true pendingBeforeCloseIds= []
+[2026-08-12 20:16:24.746] [info]                    Quit after all windows being closed
+[2026-08-12 20:16:24.746] [info]                    App before-quit: isQuiting= true

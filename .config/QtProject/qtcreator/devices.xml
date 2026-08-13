@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDevices>
+<!-- Written by QtCreator 19.0.1, 2026-07-04T18:21:24. -->
+<qtcreator>
+ <data>
+  <variable>DeviceManager</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="DefaultDevices">
+    <value type="QString" key="Desktop">Desktop Device</value>
+   </valuemap>
+   <valuelist type="QVariantList" key="DeviceList">
+    <valuemap type="QVariantMap">
+     <value type="int" key="Authentication">0</value>
+     <value type="QString" key="ClientOsType">Linux</value>
+     <value type="QString" key="DebugServer">/run/current-system/sw/bin/gdbserver</value>
+     <value type="QString" key="DockerDeviceClangDExecutable">/run/current-system/sw/bin/clangd</value>
+     <valuemap type="QVariantMap" key="ExtraData">
+      <value type="bool" key="RemoteLinux.SshForwardDebugServerPort">false</value>
+      <value type="bool" key="RemoteLinux.SupportsRSync">true</value>
+      <value type="bool" key="RemoteLinux.SupportsSftp">true</value>
+     </valuemap>
+     <value type="QString" key="FreePortsSpec">30000-31000</value>
+     <value type="QString" key="Host"></value>
+     <value type="int" key="HostKeyChecking">0</value>
+     <value type="QString" key="InternalId">Desktop Device</value>
+     <value type="QString" key="KeyFile"></value>
+     <value type="QString" key="Name">桌面</value>
+     <value type="int" key="Origin">1</value>
+     <value type="QString" key="OsType">Desktop</value>
+     <value type="QString" key="QmlsceneKey">/nix/store/pgf2mggn8vf8hn0z1s94gxrcy4clw9v0-qt6-dev-env/bin/qml</value>
+     <value type="QString" key="RsyncExecutable">/run/current-system/sw/bin/rsync</value>
+     <value type="QString" key="SshExecutable">/run/current-system/sw/bin/ssh</value>
+     <value type="int" key="SshPort">22</value>
+     <value type="int" key="Timeout">10</value>
+     <value type="int" key="Type">0</value>
+     <value type="QString" key="Uname"></value>
+     <value type="int" key="Version">0</value>
+     <value type="QString" key="ninja">/nix/store/7a235m7crqbb4h49sak20fqxpw3n7hr0-ninja-1.13.2/bin/ninja</value>
+    </valuemap>
+   </valuelist>
+  </valuemap>
+ </data>
+</qtcreator>

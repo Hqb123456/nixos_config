@@ -1,0 +1,668 @@
+22:07:30.320: Platform: Wayland
+22:07:30.320: CPU Name: 13th Gen Intel(R) Core(TM) i7-13650HX
+22:07:30.320: CPU Speed: 800.000MHz
+22:07:30.321: Physical Cores: 14, Logical Cores: 20
+22:07:30.321: Physical Memory: 23751MB Total, 14956MB Free
+22:07:30.321: Kernel Version: Linux 7.1.3
+22:07:30.321: Distribution: NixOS "26.11"
+22:07:30.321: Desktop Environment: niri (niri)
+22:07:30.321: Session Type: wayland
+22:07:30.323: Current Date/Time: 2026-07-23, 22时07分30秒
+22:07:30.323: Browser Hardware Acceleration: true
+22:07:30.323: Qt Version: 6.11.1 (runtime), 6.11.1 (compiled)
+22:07:30.323: Portable mode: false
+22:07:30.407: OBS 32.1.2 (linux)
+22:07:30.407: ---------------------------------
+22:07:30.410: ---------------------------------
+22:07:30.410: audio settings reset:
+22:07:30.410: 	samples per sec: 48000
+22:07:30.410: 	speakers:        2
+22:07:30.410: 	max buffering:   960 milliseconds
+22:07:30.410: 	buffering type:  dynamically increasing
+22:07:30.413: ---------------------------------
+22:07:30.413: Initializing OpenGL...
+22:07:30.413: Using EGL/Wayland
+22:07:30.472: Initialized EGL 1.5
+22:07:30.493: Loading up OpenGL on adapter Intel Mesa Intel(R) Graphics (RPL-S)
+22:07:30.493: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.1.4, shading language 4.60
+22:07:30.642: ---------------------------------
+22:07:30.642: video settings reset:
+22:07:30.642: 	base resolution:   1920x1080
+22:07:30.642: 	output resolution: 1280x720
+22:07:30.642: 	downscale filter:  Bicubic
+22:07:30.642: 	fps:               30/1
+22:07:30.642: 	format:            NV12
+22:07:30.642: 	YUV mode:          Rec. 709/Partial
+22:07:30.643: NV12 texture support enabled
+22:07:30.643: P010 texture support not available
+22:07:30.650: Audio monitoring device:
+22:07:30.650: 	name: 默认
+22:07:30.650: 	id: default
+22:07:30.655: ---------------------------------
+22:07:30.662: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:07:30.665: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+22:07:30.668: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:07:30.668: Failed to initialize module 'decklink.so'
+22:07:31.049: [pipewire] Available capture sources:
+22:07:31.049: [pipewire]     - Monitor source
+22:07:31.049: [pipewire]     - Window source
+22:07:31.065: v4l2loopback not installed, virtual camera not registered
+22:07:31.072: [obs-browser]: Version 2.26.8
+22:07:31.072: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.0.0-6533-fix-stutter-and-osr-extra-info.3042+g176b09c+chromium-127.0.6533.120 (compiled)
+22:07:31.096: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+22:07:33.273: VAAPI: API version 1.23
+22:07:33.322: FFmpeg VAAPI H264 encoding not supported
+22:07:33.322: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+22:07:33.513: FFmpeg VAAPI AV1 encoding not supported
+22:07:33.514: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+22:07:33.719: FFmpeg VAAPI HEVC encoding not supported
+22:07:33.743: [NVENC] Test process failed: nvenc_lib
+22:07:33.743: NVENC not supported
+22:07:33.743: Failed to initialize module 'obs-nvenc.so'
+22:07:34.227: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+22:07:34.227: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.11.1
+22:07:34.227: [obs-websocket] [obs_module_load] Linked ASIO Version: 103800
+22:07:34.253: [obs-websocket] [obs_module_load] Module loaded.
+22:07:34.273: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+22:07:34.273: ---------------------------------
+22:07:34.273:   Loaded Modules:
+22:07:34.273:     vlc-video.so
+22:07:34.273:     text-freetype2.so
+22:07:34.273:     rtmp-services.so
+22:07:34.273:     obs-x264.so
+22:07:34.273:     obs-websocket.so
+22:07:34.273:     obs-webrtc.so
+22:07:34.273:     obs-vst.so
+22:07:34.273:     obs-transitions.so
+22:07:34.273:     obs-qsv11.so
+22:07:34.273:     obs-outputs.so
+22:07:34.273:     obs-libfdk.so
+22:07:34.273:     obs-filters.so
+22:07:34.273:     obs-ffmpeg.so
+22:07:34.273:     obs-browser.so
+22:07:34.273:     linux-v4l2.so
+22:07:34.273:     linux-pulseaudio.so
+22:07:34.273:     linux-pipewire.so
+22:07:34.273:     linux-jack.so
+22:07:34.273:     linux-capture.so
+22:07:34.273:     linux-alsa.so
+22:07:34.273:     image-source.so
+22:07:34.273:     frontend-tools.so
+22:07:34.273:     decklink-output-ui.so
+22:07:34.273:     decklink-captions.so
+22:07:34.273: ---------------------------------
+22:07:34.275: ---------------------------------
+22:07:34.275: Available Encoders:
+22:07:34.275:   Video Encoders:
+22:07:34.275: 	- ffmpeg_svt_av1 (SVT-AV1)
+22:07:34.275: 	- ffmpeg_aom_av1 (AOM AV1)
+22:07:34.275: 	- obs_x264 (x264)
+22:07:34.275:   Audio Encoders:
+22:07:34.275: 	- ffmpeg_aac (FFmpeg AAC)
+22:07:34.275: 	- ffmpeg_opus (FFmpeg Opus)
+22:07:34.275: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16位))
+22:07:34.275: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24位))
+22:07:34.275: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32位浮点))
+22:07:34.275: 	- ffmpeg_alac (FFmpeg ALAC (24位))
+22:07:34.275: 	- ffmpeg_flac (FFmpeg FLAC (16位))
+22:07:34.275: 	- libfdk_aac (libfdk AAC)
+22:07:34.275: ==== Startup complete ===============================================
+22:07:34.338: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+22:07:34.339: All scene data cleared
+22:07:34.339: ------------------------------------------------
+22:07:34.351: Device for 'Audio Output Capture' source 桌面音频 is also used for audio monitoring.
+22:07:34.351: Deduplication logic is being applied to all monitored sources.
+22:07:34.351: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.7) 15.0.0'
+22:07:34.352: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+22:07:34.352: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+22:07:34.352: [Loaded global audio device]: '桌面音频'
+22:07:34.353: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.7) 15.0.0'
+22:07:34.353: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+22:07:34.353: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+22:07:34.353: [Loaded global audio device]: '麦克风/Aux'
+22:07:34.354: PipeWire initialized
+22:07:34.356: Switched to scene '场景'
+22:07:34.356: ------------------------------------------------
+22:07:34.356: Loaded scenes:
+22:07:34.356: - scene '场景':
+22:07:34.356:     - source: '屏幕采集(PipeWire)' (pipewire-screen-capture-source)
+22:07:34.356: ------------------------------------------------
+22:07:34.447: Device for 'Audio Output Capture' source 桌面音频 is also used for audio monitoring.
+22:07:34.447: Deduplication logic is being applied to all monitored sources.
+22:07:34.521: [pipewire] Screencast session created
+22:07:34.565: [pipewire] Asking for monitor and window
+22:07:34.976: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: 桌面音频)
+22:07:34.976: 
+22:07:53.615: v4l2-input: Start capture from 
+22:07:53.615: v4l2-input: Unable to open device
+22:07:53.615: v4l2-input: Initialization failed, errno: 没有那个文件或目录
+22:07:53.620: User added source '视频采集设备 (V4L2)' (v4l2_input) to scene '场景'
+22:07:53.641: v4l2-input: /dev/video1 seems to not support video capture
+22:07:53.737: v4l2-input: Found device 'Integrated Camera: Integrated C' at /dev/video0
+22:07:53.741: v4l2-input: Found input 'Camera 1' (Index 0)
+22:07:53.742: v4l2-controls: setting default for Power Line Frequency to 1
+22:07:53.743: v4l2-controls: setting default for Auto Exposure to 3
+22:07:53.745: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:07:53.745: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:07:53.745: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:07:53.745: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:07:53.745: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:07:53.745: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:07:53.745: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:07:53.746: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:07:53.749: v4l2-input: Start capture from /dev/video0
+22:07:53.750: v4l2-input: Input: 0
+22:07:53.750: v4l2-input: Resolution: 1280x720
+22:07:53.751: v4l2-input: Pixelformat: MJPG
+22:07:53.751: v4l2-input: Linesize: 0 Bytes
+22:07:53.751: v4l2-input: Framerate: 30.00 fps
+22:07:53.753: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:07:53.753: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:07:53.753: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:07:53.753: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:07:53.753: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:07:53.753: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:07:53.754: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+22:07:53.757: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:07:53.758: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:07:53.763: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:07:53.924: v4l2-input: /dev/video0: select timed out
+22:07:53.924: v4l2-input: /dev/video0: failed to log status
+22:08:01.631: v4l2-input: /dev/video0: select timed out
+22:08:01.631: v4l2-input: /dev/video0: failed to log status
+22:08:15.553: PipeWire initialized
+22:08:15.557: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:15.602: [pipewire] Screencast session created
+22:08:15.606: [pipewire] Asking for monitor and window
+22:08:16.906: PipeWire initialized
+22:08:16.909: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:16.943: [pipewire] Screencast session created
+22:08:16.946: [pipewire] Asking for monitor and window
+22:08:17.361: PipeWire initialized
+22:08:17.365: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:17.405: [pipewire] Screencast session created
+22:08:17.408: [pipewire] Asking for monitor and window
+22:08:18.005: PipeWire initialized
+22:08:18.009: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.053: [pipewire] Screencast session created
+22:08:18.056: [pipewire] Asking for monitor and window
+22:08:18.196: PipeWire initialized
+22:08:18.207: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.210: [pipewire] Screencast session created
+22:08:18.229: [pipewire] Asking for monitor and window
+22:08:18.371: PipeWire initialized
+22:08:18.374: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.399: [pipewire] Screencast session created
+22:08:18.403: [pipewire] Asking for monitor and window
+22:08:18.540: PipeWire initialized
+22:08:18.548: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.550: [pipewire] Screencast session created
+22:08:18.569: [pipewire] Asking for monitor and window
+22:08:18.698: PipeWire initialized
+22:08:18.712: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.714: [pipewire] Screencast session created
+22:08:18.736: [pipewire] Asking for monitor and window
+22:08:18.866: PipeWire initialized
+22:08:18.877: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:18.880: [pipewire] Screencast session created
+22:08:18.900: [pipewire] Asking for monitor and window
+22:08:19.029: PipeWire initialized
+22:08:19.045: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:19.048: [pipewire] Screencast session created
+22:08:19.068: [pipewire] Asking for monitor and window
+22:08:19.201: PipeWire initialized
+22:08:19.204: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:19.221: [pipewire] Screencast session created
+22:08:19.224: [pipewire] Asking for monitor and window
+22:08:19.367: PipeWire initialized
+22:08:19.492: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:19.493: [pipewire] Screencast session created
+22:08:19.517: [pipewire] Asking for monitor and window
+22:08:19.549: PipeWire initialized
+22:08:19.631: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:19.632: [pipewire] Screencast session created
+22:08:19.644: [pipewire] Asking for monitor and window
+22:08:23.274: User Removed source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) from scene '场景'
+22:08:23.275: [portals] Request cancelled
+22:08:27.067: PipeWire initialized
+22:08:27.072: User added source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) to scene '场景'
+22:08:27.095: [pipewire] Screencast session created
+22:08:27.103: [pipewire] Asking for monitor and window
+22:08:27.900: PipeWire initialized
+22:08:27.902: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:27.936: [pipewire] Screencast session created
+22:08:27.939: [pipewire] Asking for monitor and window
+22:08:28.529: PipeWire initialized
+22:08:28.533: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:28.572: [pipewire] Screencast session created
+22:08:28.575: [pipewire] Asking for monitor and window
+22:08:28.701: PipeWire initialized
+22:08:28.704: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:28.727: [pipewire] Screencast session created
+22:08:28.730: [pipewire] Asking for monitor and window
+22:08:29.847: PipeWire initialized
+22:08:29.850: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:29.884: [pipewire] Screencast session created
+22:08:29.886: [pipewire] Asking for monitor and window
+22:08:30.024: PipeWire initialized
+22:08:30.034: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:30.037: [pipewire] Screencast session created
+22:08:30.058: [pipewire] Asking for monitor and window
+22:08:30.187: PipeWire initialized
+22:08:30.189: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:30.211: [pipewire] Screencast session created
+22:08:30.214: [pipewire] Asking for monitor and window
+22:08:30.366: PipeWire initialized
+22:08:30.369: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:30.391: [pipewire] Screencast session created
+22:08:30.394: [pipewire] Asking for monitor and window
+22:08:30.542: PipeWire initialized
+22:08:30.546: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:30.570: [pipewire] Screencast session created
+22:08:30.573: [pipewire] Asking for monitor and window
+22:08:37.408: PipeWire initialized
+22:08:37.411: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:37.449: [pipewire] Screencast session created
+22:08:37.452: [pipewire] Asking for monitor and window
+22:08:37.806: PipeWire initialized
+22:08:37.809: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:37.852: [pipewire] Screencast session created
+22:08:37.855: [pipewire] Asking for monitor and window
+22:08:37.971: PipeWire initialized
+22:08:37.988: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:37.991: [pipewire] Screencast session created
+22:08:38.008: [pipewire] Asking for monitor and window
+22:08:40.093: v4l2-input: /dev/video1 seems to not support video capture
+22:08:40.094: v4l2-input: Found device 'Integrated Camera: Integrated C' at /dev/video0
+22:08:40.094: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:08:40.096: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:08:40.097: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:08:40.097: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:08:40.097: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:08:40.097: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:08:40.097: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:08:40.097: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:08:40.098: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:08:40.098: v4l2-input: Found input 'Camera 1' (Index 0)
+22:08:40.098: v4l2-controls: setting default for Power Line Frequency to 1
+22:08:40.098: v4l2-controls: setting default for Auto Exposure to 3
+22:08:40.099: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:08:40.099: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:08:40.099: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:08:40.099: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:08:40.099: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:08:40.099: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:08:40.099: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:08:44.851: User Removed source '视频采集设备 (V4L2)' (v4l2_input) from scene '场景'
+22:08:44.860: v4l2-input: /dev/video0: Stopped capture after 1525 frames
+22:08:46.839: User Removed source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) from scene '场景'
+22:08:46.839: [portals] Request cancelled
+22:08:49.671: PipeWire initialized
+22:08:49.676: User added source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) to scene '场景'
+22:08:49.704: [pipewire] Screencast session created
+22:08:49.710: [pipewire] Asking for monitor and window
+22:08:50.426: PipeWire initialized
+22:08:50.429: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:50.469: [pipewire] Screencast session created
+22:08:50.472: [pipewire] Asking for monitor and window
+22:08:51.554: PipeWire initialized
+22:08:51.558: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:51.597: [pipewire] Screencast session created
+22:08:51.601: [pipewire] Asking for monitor and window
+22:08:51.742: PipeWire initialized
+22:08:51.767: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:51.769: [pipewire] Screencast session created
+22:08:51.791: [pipewire] Asking for monitor and window
+22:08:52.006: PipeWire initialized
+22:08:52.091: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:52.094: [pipewire] Screencast session created
+22:08:52.129: [pipewire] Asking for monitor and window
+22:08:57.839: PipeWire initialized
+22:08:57.843: [pipewire] Failed to start screencast, denied or cancelled by user
+22:08:57.885: [pipewire] Screencast session created
+22:08:57.887: [pipewire] Asking for monitor and window
+22:09:01.869: PipeWire initialized
+22:09:01.872: [pipewire] Failed to start screencast, denied or cancelled by user
+22:09:01.910: [pipewire] Screencast session created
+22:09:01.912: [pipewire] Asking for monitor and window
+22:09:07.762: [twitch ingest update] Remote update of URL "https://ingest.twitch.tv/ingests" failed: Failed to connect to ingest.twitch.tv:443 after 109 ms: Could not connect to server
+22:09:31.205: 
+22:09:31.205: ==== Auto-config wizard testing commencing ======
+
+22:09:31.216: ---------------------------------
+22:09:31.216: video settings reset:
+22:09:31.216: 	base resolution:   1920x1080
+22:09:31.216: 	output resolution: 1920x1080
+22:09:31.216: 	downscale filter:  Bicubic
+22:09:31.216: 	fps:               60/1
+22:09:31.216: 	format:            NV12
+22:09:31.216: 	YUV mode:          Rec. 709/Partial
+22:09:31.217: NV12 texture support enabled
+22:09:31.217: P010 texture support not available
+22:09:31.227: Output 'null': Tried to use obs_output_set_media on an encoded output
+22:09:31.227: ---------------------------------
+22:09:31.227: [x264 encoder: 'test_x264'] preset: veryfast
+22:09:31.227: [x264 encoder: 'test_x264'] profile: high
+22:09:31.229: [x264 encoder: 'test_x264'] settings:
+22:09:31.229: 	rate_control: CRF
+22:09:31.229: 	bitrate:      0
+22:09:31.229: 	buffer size:  0
+22:09:31.229: 	crf:          20
+22:09:31.229: 	fps_num:      60
+22:09:31.229: 	fps_den:      1
+22:09:31.229: 	width:        1920
+22:09:31.229: 	height:       1080
+22:09:31.229: 	keyint:       250
+22:09:31.229: 
+22:09:31.257: ---------------------------------
+22:09:31.257: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo, track: 1
+22:09:31.257: 
+22:09:36.260: Output 'null': stopping
+22:09:36.260: Output 'null': Total frames output: 256
+22:09:36.260: Output 'null': Total drawn frames: 301
+22:09:36.346: ---------------------------------
+22:09:36.346: video settings reset:
+22:09:36.346: 	base resolution:   1920x1080
+22:09:36.346: 	output resolution: 1280x720
+22:09:36.346: 	downscale filter:  Bicubic
+22:09:36.346: 	fps:               60/1
+22:09:36.346: 	format:            NV12
+22:09:36.346: 	YUV mode:          Rec. 709/Partial
+22:09:36.346: NV12 texture support enabled
+22:09:36.346: P010 texture support not available
+22:09:36.350: Output 'null': Tried to use obs_output_set_media on an encoded output
+22:09:36.350: ---------------------------------
+22:09:36.350: [x264 encoder: 'test_x264'] preset: veryfast
+22:09:36.350: [x264 encoder: 'test_x264'] profile: high
+22:09:36.350: [x264 encoder: 'test_x264'] settings:
+22:09:36.350: 	rate_control: CRF
+22:09:36.350: 	bitrate:      0
+22:09:36.350: 	buffer size:  0
+22:09:36.350: 	crf:          20
+22:09:36.350: 	fps_num:      60
+22:09:36.350: 	fps_den:      1
+22:09:36.350: 	width:        1280
+22:09:36.350: 	height:       720
+22:09:36.350: 	keyint:       250
+22:09:36.350: 
+22:09:36.357: ---------------------------------
+22:09:36.357: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo, track: 1
+22:09:36.357: 
+22:09:41.358: Output 'null': stopping
+22:09:41.358: Output 'null': Total frames output: 264
+22:09:41.358: Output 'null': Total drawn frames: 300
+22:09:41.434: ---------------------------------
+22:09:41.434: video settings reset:
+22:09:41.434: 	base resolution:   1920x1080
+22:09:41.434: 	output resolution: 852x480
+22:09:41.434: 	downscale filter:  Bicubic
+22:09:41.434: 	fps:               60/1
+22:09:41.434: 	format:            NV12
+22:09:41.434: 	YUV mode:          Rec. 709/Partial
+22:09:41.434: NV12 texture support enabled
+22:09:41.434: P010 texture support not available
+22:09:41.439: Output 'null': Tried to use obs_output_set_media on an encoded output
+22:09:41.439: ---------------------------------
+22:09:41.439: [x264 encoder: 'test_x264'] preset: veryfast
+22:09:41.439: [x264 encoder: 'test_x264'] profile: high
+22:09:41.439: [x264 encoder: 'test_x264'] settings:
+22:09:41.439: 	rate_control: CRF
+22:09:41.439: 	bitrate:      0
+22:09:41.439: 	buffer size:  0
+22:09:41.439: 	crf:          20
+22:09:41.439: 	fps_num:      60
+22:09:41.439: 	fps_den:      1
+22:09:41.439: 	width:        852
+22:09:41.439: 	height:       480
+22:09:41.439: 	keyint:       250
+22:09:41.439: 
+22:09:41.442: ---------------------------------
+22:09:41.442: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo, track: 1
+22:09:41.442: 
+22:09:46.443: Output 'null': stopping
+22:09:46.443: Output 'null': Total frames output: 270
+22:09:46.443: Output 'null': Total drawn frames: 300
+22:09:46.500: ---------------------------------
+22:09:46.500: video settings reset:
+22:09:46.500: 	base resolution:   1920x1080
+22:09:46.500: 	output resolution: 1280x720
+22:09:46.500: 	downscale filter:  Bicubic
+22:09:46.500: 	fps:               30/1
+22:09:46.500: 	format:            NV12
+22:09:46.500: 	YUV mode:          Rec. 709/Partial
+22:09:46.501: NV12 texture support enabled
+22:09:46.501: P010 texture support not available
+22:09:46.520: Device for 'Audio Output Capture' source 桌面音频 is also used for audio monitoring.
+22:09:46.520: Deduplication logic is being applied to all monitored sources.
+22:09:50.276: ---------------------------------
+22:09:50.276: video settings reset:
+22:09:50.276: 	base resolution:   1920x1080
+22:09:50.276: 	output resolution: 1920x1080
+22:09:50.276: 	downscale filter:  Bicubic
+22:09:50.276: 	fps:               60/1
+22:09:50.276: 	format:            NV12
+22:09:50.276: 	YUV mode:          Rec. 709/Partial
+22:09:50.277: NV12 texture support enabled
+22:09:50.277: P010 texture support not available
+22:09:50.287: 
+22:09:50.287: ==== Auto-config wizard testing stopping ========
+
+22:09:52.481: PipeWire initialized
+22:09:52.485: [pipewire] Failed to start screencast, denied or cancelled by user
+22:09:52.524: [pipewire] Screencast session created
+22:09:52.528: [pipewire] Asking for monitor and window
+22:09:53.211: PipeWire initialized
+22:09:53.214: [pipewire] Failed to start screencast, denied or cancelled by user
+22:09:53.255: [pipewire] Screencast session created
+22:09:53.257: [pipewire] Asking for monitor and window
+22:10:05.940: PipeWire initialized
+22:10:05.943: [pipewire] Failed to start screencast, denied or cancelled by user
+22:10:05.978: [pipewire] Screencast session created
+22:10:05.981: [pipewire] Asking for monitor and window
+22:10:16.772: User Removed source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) from scene '场景'
+22:10:16.772: [portals] Request cancelled
+22:10:19.445: v4l2-input: Start capture from 
+22:10:19.445: v4l2-input: Unable to open device
+22:10:19.446: v4l2-input: Initialization failed, errno: 没有那个文件或目录
+22:10:19.450: User added source '视频采集设备 (V4L2)' (v4l2_input) to scene '场景'
+22:10:19.465: v4l2-input: /dev/video1 seems to not support video capture
+22:10:19.559: v4l2-input: Found device 'Integrated Camera: Integrated C' at /dev/video0
+22:10:19.563: v4l2-input: Found input 'Camera 1' (Index 0)
+22:10:19.565: v4l2-controls: setting default for Power Line Frequency to 1
+22:10:19.566: v4l2-controls: setting default for Auto Exposure to 3
+22:10:19.567: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:10:19.567: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:10:19.567: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:10:19.567: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:10:19.567: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:10:19.567: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:10:19.568: v4l2-input: Start capture from /dev/video0
+22:10:19.568: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:10:19.569: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:10:19.569: v4l2-input: Input: 0
+22:10:19.570: v4l2-input: Resolution: 1280x720
+22:10:19.570: v4l2-input: Pixelformat: MJPG
+22:10:19.570: v4l2-input: Linesize: 0 Bytes
+22:10:19.570: v4l2-input: Framerate: 30.00 fps
+22:10:19.572: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+22:10:19.576: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:10:19.576: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:10:19.576: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:10:19.576: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:10:19.576: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:10:19.576: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:10:19.577: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:10:19.577: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:10:19.583: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:10:19.743: v4l2-input: /dev/video0: select timed out
+22:10:19.743: v4l2-input: /dev/video0: failed to log status
+22:10:23.683: v4l2-input: /dev/video0: select timed out
+22:10:23.683: v4l2-input: /dev/video0: failed to log status
+22:11:34.028: PipeWire initialized
+22:11:34.033: User added source '屏幕采集(PipeWire)' (pipewire-screen-capture-source) to scene '场景'
+22:11:34.055: [pipewire] Screencast session created
+22:11:34.079: [pipewire] Asking for monitor and window
+22:11:34.703: PipeWire initialized
+22:11:34.706: [pipewire] Failed to start screencast, denied or cancelled by user
+22:11:34.749: [pipewire] Screencast session created
+22:11:34.752: [pipewire] Asking for monitor and window
+22:11:36.990: ==== Shutting down ==================================================
+22:11:36.997: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+22:11:36.997: pulse-input: Got 9702 packets with 11642400 frames
+22:11:36.997: Deduplication logic stopped.
+22:11:36.997: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+22:11:36.997: pulse-input: Got 9701 packets with 11641200 frames
+22:11:37.011: v4l2-input: /dev/video0: Stopped capture after 2316 frames
+22:11:37.013: [portals] Request cancelled
+22:11:37.045: All scene data cleared
+22:11:37.046: ------------------------------------------------
+22:11:37.055: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:11:37.116: [obs-websocket] [obs_module_unload] Shutting down...
+22:11:37.116: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:11:37.116: [obs-websocket] [obs_module_unload] Finished shutting down.
+22:11:37.134: [Scripting] Total detached callbacks: 0
+22:11:37.134: Freeing OBS context data
+22:11:37.157: == Profiler Results =============================
+22:11:37.158: run_program_init: 4326.12 ms
+22:11:37.158:  ┣OBSApp::AppInit: 51.215 ms
+22:11:37.158:  ┃ ┗OBSApp::InitLocale: 7.394 ms
+22:11:37.158:  ┗OBSApp::OBSInit: 4190.62 ms
+22:11:37.158:    ┣obs_startup: 3.015 ms
+22:11:37.158:    ┗OBSBasic::OBSInit: 4103.64 ms
+22:11:37.158:      ┣OBSBasic::InitBasicConfig: 2.772 ms
+22:11:37.158:      ┣OBSBasic::ResetAudio: 0.294 ms
+22:11:37.158:      ┣OBSBasic::ResetVideo: 239.982 ms
+22:11:37.158:      ┃ ┗obs_init_graphics: 232.24 ms
+22:11:37.158:      ┃   ┗shader compilation: 147.748 ms
+22:11:37.158:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+22:11:37.158:      ┣OBSBasic::InitHotkeys: 0.026 ms
+22:11:37.158:      ┣obs_load_all_modules2: 3618.29 ms
+22:11:37.158:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+22:11:37.158:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+22:11:37.158:      ┃ ┣obs_init_module(decklink.so): 0.229 ms
+22:11:37.158:      ┃ ┣obs_init_module(frontend-tools.so): 143.388 ms
+22:11:37.158:      ┃ ┣obs_init_module(image-source.so): 0.01 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-pipewire.so): 24.881 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+22:11:37.158:      ┃ ┣obs_init_module(linux-v4l2.so): 7.742 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-browser.so): 0.117 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-ffmpeg.so): 2624.15 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-filters.so): 0.025 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-nvenc.so): 6.728 ms
+22:11:37.158:      ┃ ┃ ┗nvenc_check: 6.705 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-outputs.so): 0.006 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-qsv11.so): 422.007 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-transitions.so): 0.008 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-vst.so): 0.002 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-webrtc.so): 0.006 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-websocket.so): 26.321 ms
+22:11:37.158:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+22:11:37.158:      ┃ ┣obs_init_module(rtmp-services.so): 0.455 ms
+22:11:37.158:      ┃ ┣obs_init_module(text-freetype2.so): 0.018 ms
+22:11:37.158:      ┃ ┗obs_init_module(vlc-video.so): 6.252 ms
+22:11:37.158:      ┣OBSBasic::InitService: 4.064 ms
+22:11:37.158:      ┣OBSBasic::ResetOutputs: 1.611 ms
+22:11:37.158:      ┣OBSBasic::CreateHotkeys: 0.045 ms
+22:11:37.158:      ┣OBSBasic::InitPrimitives: 0.2 ms
+22:11:37.158:      ┗OBSBasic::Load: 73.787 ms
+22:11:37.158: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.039 ms, 99th percentile=0.002 ms, 100% below 25 ms
+22:11:37.158: audio_thread(Audio): min=0.004 ms, median=0.059 ms, max=12.453 ms, 99th percentile=0.496 ms
+22:11:37.158:  ┗receive_audio: min=0.005 ms, median=0.173 ms, max=1.514 ms, 99th percentile=0.402 ms, 0.0615704 calls per parent call
+22:11:37.158:    ┣buffer_audio: min=0.001 ms, median=0.002 ms, max=0.014 ms, 99th percentile=0.006 ms
+22:11:37.158:    ┗do_encode: min=0.023 ms, median=0.168 ms, max=1.508 ms, 99th percentile=0.397 ms
+22:11:37.158:      ┣encode(test_aac): min=0.023 ms, median=0.161 ms, max=1.501 ms, 99th percentile=0.386 ms
+22:11:37.158:      ┗send_packet: min=0.001 ms, median=0.005 ms, max=0.124 ms, 99th percentile=0.012 ms
+22:11:37.158: obs_graphics_thread(33.3333 ms): min=0.016 ms, median=0.609 ms, max=394.082 ms, 99th percentile=2.067 ms, 99.9168% below 33.333 ms
+22:11:37.158:  ┣tick_sources: min=0 ms, median=0.014 ms, max=64.431 ms, 99th percentile=0.127 ms
+22:11:37.158:  ┣output_frame: min=0.011 ms, median=0.143 ms, max=16.566 ms, 99th percentile=1.428 ms
+22:11:37.158:  ┃ ┗gs_context(video->graphics): min=0.011 ms, median=0.142 ms, max=16.563 ms, 99th percentile=1.428 ms
+22:11:37.158:  ┃   ┣render_video: min=0.002 ms, median=0.048 ms, max=16.149 ms, 99th percentile=1.229 ms
+22:11:37.158:  ┃   ┃ ┗render_main_texture: min=0.002 ms, median=0.043 ms, max=16.144 ms, 99th percentile=1.223 ms
+22:11:37.158:  ┃   ┗gs_flush: min=0.007 ms, median=0.084 ms, max=0.568 ms, 99th percentile=0.26 ms
+22:11:37.158:  ┗render_displays: min=0.001 ms, median=0.323 ms, max=12.391 ms, 99th percentile=1.101 ms
+22:11:37.158: obs_graphics_thread(16.6667 ms): min=0.223 ms, median=1.065 ms, max=15.888 ms, 99th percentile=4.356 ms, 100% below 16.667 ms
+22:11:37.158:  ┣tick_sources: min=0.006 ms, median=0.013 ms, max=0.087 ms, 99th percentile=0.026 ms
+22:11:37.158:  ┣output_frame: min=0.091 ms, median=0.758 ms, max=15.591 ms, 99th percentile=3.912 ms
+22:11:37.158:  ┃ ┣gs_context(video->graphics): min=0.091 ms, median=0.254 ms, max=15.589 ms, 99th percentile=0.624 ms
+22:11:37.158:  ┃ ┃ ┣render_video: min=0.034 ms, median=0.116 ms, max=15.269 ms, 99th percentile=0.287 ms
+22:11:37.158:  ┃ ┃ ┃ ┣render_main_texture: min=0.031 ms, median=0.056 ms, max=9.13 ms, 99th percentile=0.11 ms
+22:11:37.158:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.036 ms, max=14.506 ms, 99th percentile=0.095 ms
+22:11:37.158:  ┃ ┃ ┃ ┗stage_output_texture: min=0.012 ms, median=0.021 ms, max=0.662 ms, 99th percentile=0.049 ms
+22:11:37.158:  ┃ ┃ ┣gs_flush: min=0.028 ms, median=0.058 ms, max=0.304 ms, 99th percentile=0.221 ms
+22:11:37.158:  ┃ ┃ ┗download_frame: min=0 ms, median=0.072 ms, max=6.49 ms, 99th percentile=0.182 ms
+22:11:37.158:  ┃ ┗output_video_data: min=0.268 ms, median=0.499 ms, max=3.462 ms, 99th percentile=3.334 ms
+22:11:37.158:  ┗render_displays: min=0.112 ms, median=0.251 ms, max=0.644 ms, 99th percentile=0.579 ms
+22:11:37.158: video_thread(video): min=0.001 ms, median=1.591 ms, max=38.691 ms, 99th percentile=28.25 ms
+22:11:37.159:  ┗receive_video: min=0.857 ms, median=1.589 ms, max=38.688 ms, 99th percentile=28.248 ms
+22:11:37.159:    ┗do_encode: min=0.856 ms, median=1.589 ms, max=38.685 ms, 99th percentile=28.245 ms
+22:11:37.159:      ┣encode(test_x264): min=0.802 ms, median=1.505 ms, max=38.683 ms, 99th percentile=28.242 ms
+22:11:37.159:      ┗send_packet: min=0.04 ms, median=0.074 ms, max=0.602 ms, 99th percentile=0.285 ms, 0.856187 calls per parent call
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=0.415 ms, median=1.151 ms, max=24.131 ms, 99th percentile=2.494 ms, 99.6721% below 16.667 ms
+22:11:37.159:  ┣tick_sources: min=0.005 ms, median=0.017 ms, max=0.029 ms, 99th percentile=0.026 ms
+22:11:37.159:  ┣output_frame: min=0.157 ms, median=0.739 ms, max=23.92 ms, 99th percentile=1.791 ms
+22:11:37.159:  ┃ ┣gs_context(video->graphics): min=0.157 ms, median=0.45 ms, max=23.918 ms, 99th percentile=0.964 ms
+22:11:37.159:  ┃ ┃ ┣render_video: min=0.048 ms, median=0.214 ms, max=23.715 ms, 99th percentile=0.406 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_main_texture: min=0.012 ms, median=0.082 ms, max=0.134 ms, 99th percentile=0.129 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_output_texture: min=0.009 ms, median=0.042 ms, max=23.592 ms, 99th percentile=0.102 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_convert_texture: min=0.014 ms, median=0.044 ms, max=0.204 ms, 99th percentile=0.16 ms
+22:11:37.159:  ┃ ┃ ┃ ┗stage_output_texture: min=0.008 ms, median=0.034 ms, max=0.184 ms, 99th percentile=0.061 ms
+22:11:37.159:  ┃ ┃ ┣gs_flush: min=0.034 ms, median=0.09 ms, max=0.505 ms, 99th percentile=0.252 ms
+22:11:37.159:  ┃ ┃ ┗download_frame: min=0 ms, median=0.13 ms, max=6.058 ms, 99th percentile=0.392 ms
+22:11:37.159:  ┃ ┗output_video_data: min=0.113 ms, median=0.277 ms, max=1.311 ms, 99th percentile=0.638 ms
+22:11:37.159:  ┗render_displays: min=0.124 ms, median=0.34 ms, max=1.833 ms, 99th percentile=0.654 ms
+22:11:37.159: video_thread(video): min=0.411 ms, median=1.058 ms, max=5.136 ms, 99th percentile=4.949 ms
+22:11:37.159:  ┗receive_video: min=0.409 ms, median=1.056 ms, max=5.133 ms, 99th percentile=4.946 ms
+22:11:37.159:    ┗do_encode: min=0.408 ms, median=1.056 ms, max=5.13 ms, 99th percentile=4.943 ms
+22:11:37.159:      ┣encode(test_x264): min=0.383 ms, median=0.995 ms, max=5.128 ms, 99th percentile=4.941 ms
+22:11:37.159:      ┗send_packet: min=0.018 ms, median=0.036 ms, max=0.328 ms, 99th percentile=0.24 ms, 0.882943 calls per parent call
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=0.561 ms, median=0.855 ms, max=13.33 ms, 99th percentile=1.451 ms, 100% below 16.667 ms
+22:11:37.159:  ┣tick_sources: min=0.008 ms, median=0.015 ms, max=0.14 ms, 99th percentile=0.035 ms
+22:11:37.159:  ┣output_frame: min=0.198 ms, median=0.503 ms, max=13.065 ms, 99th percentile=0.912 ms
+22:11:37.159:  ┃ ┣gs_context(video->graphics): min=0.198 ms, median=0.388 ms, max=13.062 ms, 99th percentile=0.742 ms
+22:11:37.159:  ┃ ┃ ┣render_video: min=0.068 ms, median=0.178 ms, max=12.863 ms, 99th percentile=0.3 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_main_texture: min=0.039 ms, median=0.073 ms, max=0.182 ms, 99th percentile=0.105 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_output_texture: min=0.024 ms, median=0.034 ms, max=12.714 ms, 99th percentile=0.054 ms
+22:11:37.159:  ┃ ┃ ┃ ┣render_convert_texture: min=0.021 ms, median=0.034 ms, max=0.19 ms, 99th percentile=0.109 ms
+22:11:37.159:  ┃ ┃ ┃ ┗stage_output_texture: min=0.017 ms, median=0.03 ms, max=0.059 ms, 99th percentile=0.044 ms
+22:11:37.159:  ┃ ┃ ┣gs_flush: min=0.053 ms, median=0.081 ms, max=0.315 ms, 99th percentile=0.257 ms
+22:11:37.159:  ┃ ┃ ┗download_frame: min=0 ms, median=0.117 ms, max=0.497 ms, 99th percentile=0.307 ms
+22:11:37.159:  ┃ ┗output_video_data: min=0.075 ms, median=0.112 ms, max=0.467 ms, 99th percentile=0.245 ms
+22:11:37.159:  ┗render_displays: min=0.192 ms, median=0.279 ms, max=1.511 ms, 99th percentile=0.661 ms
+22:11:37.159: video_thread(video): min=0.363 ms, median=0.533 ms, max=2.004 ms, 99th percentile=1.965 ms
+22:11:37.159:  ┗receive_video: min=0.361 ms, median=0.531 ms, max=2.001 ms, 99th percentile=1.962 ms
+22:11:37.159:    ┗do_encode: min=0.36 ms, median=0.53 ms, max=1.999 ms, 99th percentile=1.96 ms
+22:11:37.159:      ┣encode(test_x264): min=0.347 ms, median=0.513 ms, max=1.997 ms, 99th percentile=1.957 ms
+22:11:37.159:      ┗send_packet: min=0.008 ms, median=0.013 ms, max=0.053 ms, 99th percentile=0.032 ms, 0.906355 calls per parent call
+22:11:37.159: obs_graphics_thread(33.3333 ms): min=0.353 ms, median=0.486 ms, max=12.43 ms, 99th percentile=0.763 ms, 100% below 33.333 ms
+22:11:37.159:  ┣tick_sources: min=0.008 ms, median=0.011 ms, max=11.73 ms, 99th percentile=0.042 ms
+22:11:37.159:  ┣output_frame: min=0.082 ms, median=0.119 ms, max=0.291 ms, 99th percentile=0.267 ms
+22:11:37.159:  ┃ ┗gs_context(video->graphics): min=0.081 ms, median=0.119 ms, max=0.29 ms, 99th percentile=0.266 ms
+22:11:37.159:  ┃   ┣render_video: min=0.027 ms, median=0.039 ms, max=0.149 ms, 99th percentile=0.066 ms
+22:11:37.159:  ┃   ┃ ┗render_main_texture: min=0.024 ms, median=0.036 ms, max=0.145 ms, 99th percentile=0.058 ms
+22:11:37.159:  ┃   ┗gs_flush: min=0.05 ms, median=0.072 ms, max=0.243 ms, 99th percentile=0.197 ms
+22:11:37.159:  ┗render_displays: min=0.231 ms, median=0.319 ms, max=0.604 ms, 99th percentile=0.566 ms
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=0.178 ms, median=0.807 ms, max=6.495 ms, 99th percentile=2.035 ms, 100% below 16.667 ms
+22:11:37.159:  ┣tick_sources: min=0.004 ms, median=0.014 ms, max=3.437 ms, 99th percentile=0.092 ms
+22:11:37.159:  ┣output_frame: min=0.065 ms, median=0.251 ms, max=2.912 ms, 99th percentile=1.176 ms
+22:11:37.159:  ┃ ┗gs_context(video->graphics): min=0.064 ms, median=0.25 ms, max=2.912 ms, 99th percentile=1.175 ms
+22:11:37.159:  ┃   ┣render_video: min=0.021 ms, median=0.101 ms, max=2.624 ms, 99th percentile=1.001 ms
+22:11:37.159:  ┃   ┃ ┗render_main_texture: min=0.019 ms, median=0.096 ms, max=2.62 ms, 99th percentile=0.996 ms
+22:11:37.159:  ┃   ┗gs_flush: min=0.03 ms, median=0.121 ms, max=0.525 ms, 99th percentile=0.251 ms
+22:11:37.159:  ┗render_displays: min=0.006 ms, median=0.429 ms, max=6.098 ms, 99th percentile=0.9 ms
+22:11:37.159: OBSBasic::ResetVideo: 29.111 ms
+22:11:37.159: OBSBasic::ResetOutputs: 0.194 ms
+22:11:37.159: =================================================
+22:11:37.159: == Profiler Time Between Calls ==================
+22:11:37.159: obs_hotkey_thread(25 ms): min=25.007 ms, median=25.041 ms, max=25.295 ms, 100% within ±2% of 25 ms (0% lower, 0% higher)
+22:11:37.159: obs_graphics_thread(33.3333 ms): min=1.992 ms, median=33.333 ms, max=394.09 ms, 99.8059% within ±2% of 33.333 ms (0.110926% lower, 0.0831947% higher)
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=16.538 ms, median=16.666 ms, max=16.792 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=9.169 ms, median=16.666 ms, max=24.138 ms, 99.3421% within ±2% of 16.667 ms (0.328947% lower, 0.328947% higher)
+22:11:37.159: obs_graphics_thread(16.6667 ms): min=16.559 ms, median=16.667 ms, max=16.776 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+22:11:37.159: obs_graphics_thread(33.3333 ms): min=33.232 ms, median=33.334 ms, max=33.445 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+22:11:37.160: obs_graphics_thread(16.6667 ms): min=16.197 ms, median=16.667 ms, max=17.134 ms, 99.9376% within ±2% of 16.667 ms (0.031211% lower, 0.031211% higher)
+22:11:37.160: =================================================
+22:11:37.215: Number of memory leaks: 0

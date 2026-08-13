@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name[zh_CN.UTF-8]=IBus 守护进程
+Comment[zh_CN.UTF-8]=使用和管理输入法
+Exec=ibus start
+Icon=ibus-setup
+Type=Application
+X-GNOME-Autostart-enabled=false

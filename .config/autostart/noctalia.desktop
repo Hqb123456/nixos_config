@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=noctalia
+X-XDP-Autostart=noctalia
+Exec=gearlever --fetch-updates

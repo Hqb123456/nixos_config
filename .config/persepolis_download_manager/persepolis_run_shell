@@ -1,0 +1,2 @@
+#!/bin/sh
+/nix/store/jghwdp596crkzdqzppdl406pwpczxxmz-persepolis-5.2.0/bin/persepolis	$@

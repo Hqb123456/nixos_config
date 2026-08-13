@@ -1,0 +1,12 @@
+<application>
+  <component name="Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="05f9fd5b-bf5f-45da-b3ff-bfcce52d4335" />
+        <option name="type" value="gdb" />
+        <option name="name" value="GDB" />
+        <settings />
+      </debug-profile>
+    </debug-profiles>
+  </component>
+</application>

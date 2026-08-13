@@ -1,0 +1,11 @@
+2026/07/23-21:18:12.333 5dd6 Reusing MANIFEST /home/shorin/.config/bilibili/Local Storage/leveldb/MANIFEST-000001
+2026/07/23-21:18:12.340 5dd6 Recovering log #107
+2026/07/23-21:18:12.341 5dd6 Level-0 table #111: started
+2026/07/23-21:18:12.342 5dd6 Level-0 table #111: 29481 bytes OK
+2026/07/23-21:18:12.342 5dd6 Recovering log #111
+2026/07/23-21:18:12.342 5dd6 Reusing old log /home/shorin/.config/bilibili/Local Storage/leveldb/000111.log 
+2026/07/23-21:18:12.344 5dd6 Delete type=0 #107
+2026/07/23-21:18:12.344 5dd6 Delete type=2 #112
+2026/07/23-22:48:22.667 5dd4 Level-0 table #113: started
+2026/07/23-22:48:22.670 5dd4 Level-0 table #113: 29172 bytes OK
+2026/07/23-22:48:22.671 5dd4 Delete type=0 #111

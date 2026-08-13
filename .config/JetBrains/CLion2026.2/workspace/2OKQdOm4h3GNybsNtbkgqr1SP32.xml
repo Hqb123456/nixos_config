@@ -1,0 +1,490 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="LearnCppProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2yff45bl12" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++": {
+      "usageCount": 41,
+      "lastUsed": 1786282085569
+    },
+    "Markdown": {
+      "usageCount": 4,
+      "lastUsed": 1786282710247
+    },
+    "C/C++ Header": {
+      "usageCount": 2,
+      "lastUsed": 1786281982210
+    },
+    "YAML": {
+      "usageCount": 15,
+      "lastUsed": 1786282709865
+    },
+    "translated code preview": {
+      "usageCount": 2,
+      "lastUsed": 1786281680625
+    },
+    "DIFF": {
+      "usageCount": 5,
+      "lastUsed": 1786282685479
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>apple</find>
+      <find>cellphone</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>orange</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lessons</dir>
+      <dir>$PROJECT_DIR$/include</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$/include" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{
+  &quot;visibleItems&quot;: [
+    &quot;COMMIT_BY_HASH&quot;,
+    &quot;LOCAL_BRANCH&quot;,
+    &quot;REMOTE_BRANCH&quot;,
+    &quot;TAG&quot;,
+    &quot;COMMIT_BY_MESSAGE&quot;
+  ]
+}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/lessons/context_actions.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/lessons/multiple_selection.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/lessons/comment.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/Refactorings.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/my_cat.yaml&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/lessons/code_formatting.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/CodeAssistance.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/BasicEditing.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/Navigation.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/main.cpp&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/git/simple_cat.yml&quot;,
+    &quot;/home/shorin/.cache/JetBrains/CLion2026.2/demo/LearnCppProject/git/martian_cat.yml&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="43" lastUsage="1786282085569" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="4" lastUsage="1786282710247" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="15" lastUsage="1786282709866" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake 应用程序.welcome" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Backup and Sync History" />
+      <window_info id="Pull Requests" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2408854" />
+      <window_info id="Commit" order="1" weight="0.2408854" />
+      <window_info id="Structure" order="2" sideWeight="0.498968" side_tool="true" weight="0.2408854" />
+      <window_info active="true" id="Learn" order="3" sideWeight="0.501032" visible="true" weight="0.2408854" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Python Packages" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Serial Monitor" />
+      <window_info anchor="bottom" id="PythonProcessOutput" />
+      <window_info anchor="bottom" id="Vcpkg" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.26005748" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.26005748" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.26005748" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.26005748" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="Python Console" />
+      <window_info anchor="right" id="PlatformIO" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <window_info anchor="right" id="documentation.v2" order="6" side_tool="true" weight="0.32994792" />
+      <unified_weights bottom="0.26005748" left="0.2408854" right="0.2408854" />
+    </layoutV2>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Learn</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Messages</value>
+      <value>Run</value>
+      <value>Structure</value>
+      <value>documentation.v2</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="833" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1786282084085">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="833" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1786282084085" />
+    <state x="0" y="0" width="1000" height="700" key="CommitChangelistDialog2" timestamp="1786282573750">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1000" height="700" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1786282573750" />
+    <state x="0" y="0" key="Git.Interactive.Rebase.Dialog" timestamp="1786282535877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="Git.Interactive.Rebase.Dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1786282535877" />
+    <state width="1838" height="224" key="GridCell.Tab.0.bottom" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.0.center" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.0.left" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.0.right" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.1.bottom" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.1.center" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.1.left" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.1.right" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.2.bottom" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.2.center" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.2.left" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873237" />
+    <state width="1838" height="224" key="GridCell.Tab.2.right" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.3.bottom" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.3.center" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.3.left" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.3.right" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.4.bottom" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.4.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.4.center" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.4.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.4.left" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.4.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state width="1838" height="224" key="GridCell.Tab.4.right" timestamp="1786282703871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="224" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1786282703871" />
+    <state width="1838" height="300" key="GridCell.Tab.4.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786280873238" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1786281904577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1786281904577" />
+    <state x="688" y="250" width="540" height="539" key="StructurePopup" timestamp="1786282023785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="250" width="540" height="539" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1786282023785" />
+    <state x="0" y="0" key="VCS.ChangelistChooser" timestamp="1786282561641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="VCS.ChangelistChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1786282561641" />
+    <state x="0" y="0" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1786282376696">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1786282376696" />
+    <state x="0" y="0" width="673" height="867" key="find.popup" timestamp="1786282012552">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="673" height="867" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1786282012552" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1786281793762">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1786281793762" />
+    <state x="0" y="0" width="945" height="1024" key="lvcs.dialog.size" timestamp="1786281674419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="945" height="1024" key="lvcs.dialog.size/0.0.1920.1080@0.0.1920.1080" timestamp="1786281674419" />
+    <state x="100" y="127" width="1720" height="853" key="lvcs.dialog.size/0.27.1920.1053@0.27.1920.1053" timestamp="1786281471539" />
+    <state x="609" y="225" key="search.everywhere.popup" timestamp="1786282467377">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="345" y="36" key="search.everywhere.popup.inPresentationMode" timestamp="1786282192162">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="345" y="36" key="search.everywhere.popup.inPresentationMode/0.0.1920.1080@0.0.1920.1080" timestamp="1786282192162" />
+    <state x="609" y="225" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1786282467377" />
+    <state x="609" y="246" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1786281349514" />
+    <state x="0" y="0" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1786282592721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1786282592721" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>result / value.size()</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lessons/context_actions.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/buffered_reader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1786282676420" expanded="true" signature="0:76" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/quadratic_equations_solver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding>
+            <marker date="1786282676420" expanded="true" signature="0:36" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/selection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="10" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/multiple_selection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/comment.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Refactorings.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_cat.yaml" />
+    <entry file="file://$PROJECT_DIR$/lessons/code_formatting.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.clang-format">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeAssistance.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicEditing.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/find_in_files.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1786282676420" expanded="true" signature="0:40" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/warehouse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding>
+            <marker date="1786282676420" expanded="true" signature="0:52" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/file_structure.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigation.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/sphinx_cat.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/puss_in_boots.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/simple_cat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/martian_cat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

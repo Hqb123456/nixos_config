@@ -1,0 +1,104 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="EditorToggleCase" />
+      <option value="About" />
+      <option value="EditorGutterToggleGlobalLineNumbers" />
+      <option value="ChangeSignature" />
+      <option value="TogglePresentationMode" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="C++" />
+    <languageToProjectMap>
+      <entry key="C++" value="$USER_HOME$/.cache/JetBrains/CLion2026.2/demo/LearnCppProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6009772",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "MarketplacePluginsSearchHistory": "nix",
+    "Migrate.Cfg.Render.Doc": "true",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NextRunPlatformUpdateBuild": "CL-262.9437.136",
+    "NextRunPlatformUpdateSelfBuild": "CL-262.8665.321",
+    "NextRunPlatformUpdateVersion": "2026.2.1",
+    "Rad.Init.Cfg.1": "true",
+    "RunOnceActivity.AIPromoWindowAdvisorPreheat": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.RadMigrateLiveTemplates": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.cache.folding.model.on.disk.true": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "SettingsSearchHistory": "插入内联提案",
+    "Vcs.Log.Text.Filter.History": "sphinx",
+    "cef_version_last_used": "144",
+    "clion.initialConfigPerformed": "true",
+    "enter_selection_count": "1",
+    "evlsprt3.262": "6",
+    "experimental.ui.on.first.startup": "true",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "git.working.trees.number.of.projects.with.git": "2",
+    "got.it.tooltip.reset.lesson.got.it": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.trial.state.widget.trial.started.got.it.id": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "got.it.tooltip.插件自动更新": "1",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "ift.clion.onboarding.feedback.proposed": "true",
+    "ift.hide.welcome.screen.promo": "true",
+    "ift.learning.panel.opened.in": "262.8665.321",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "2",
+    "onboarding.tips.enabled": "false",
+    "previousColorScheme": "_@user_Islands Dark",
+    "registry.to.advanced.settings.migration.build": "CL-262.8665.321",
+    "settings.code.style.selected.tab.C++": "新文件扩展名",
+    "tab_selection_count": "4",
+    "trial.state.last.availability.check": "0",
+    "trial.state.last.state": "ACTIVE",
+    "ts.lib.d.ts.version": "6.0.3",
+    "whats.new.last.shown.version": "2026-2.0.1-8665-f9c8cffc33e2bcbd7969cc5baa28342f346ccf5f",
+    "whatsnew.reactions.state": "1"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage"><![CDATA[{
+  "enterKeyPressedTimes": 25,
+  "firstIdeSessionMoment": {
+    "type": "org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.Version",
+    "build": "CL-262.8665.321"
+  }
+}]]></component>
+  <component name="TerminalAgentsState">{}</component>
+</application>

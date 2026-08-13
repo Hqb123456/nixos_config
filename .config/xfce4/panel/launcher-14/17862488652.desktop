@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=exo-open --launch FileManager %u
+Icon=org.xfce.filemanager
+StartupNotify=true
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+Keywords[zh_CN]=文件;管理;浏览;文件系统;目录;文件夹;xfce;
+Keywords=file;manager;explorer;browse;filesystem;directory;folder;xfce;
+OnlyShowIn=XFCE;
+X-XFCE-MimeType=inode/directory;x-scheme-handler/trash;
+X-AppStream-Ignore=True
+Name[zh_CN]=文件管理器
+Name=File Manager
+Comment[zh_CN]=浏览文件系统
+Comment=Browse the file system
+X-XFCE-Source=file:///nix/store/iqm3jda24wrbfj4iiby8x1z6p9508204-xfce4-settings-4.20.5/share/applications/xfce4-file-manager.desktop

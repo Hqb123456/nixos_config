@@ -1,0 +1,552 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="clion" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2yff45bl12">
+      <file>
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt" file-id="400" managing-fs="1786276483811">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="205">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"CMakeLists.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,15,105,99,111,110,115,47,67,77,97,107,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,67,77,97,107,101,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,109,97,107,101,40,-99,-66,-40,-99,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/test.h" file-id="3749" managing-fs="1786276483811">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="246">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <marker date="1786277777083" expanded="true" signature="0:39" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"test.h","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,116,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,108,105,111,110,34,29,105,110,116,101,108,108,105,106,46,99,105,100,114,46,108,97,110,103,46,98,97,115,101,46,105,99,111,110,115,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp" file-id="401" managing-fs="1786276483811">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="164">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.cpp","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,120,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,108,105,111,110,34,29,105,110,116,101,108,108,105,106,46,99,105,100,114,46,108,97,110,103,46,98,97,115,101,46,105,99,111,110,115,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++ Header": {
+      "usageCount": 2,
+      "lastUsed": 1786277733821
+    },
+    "C/C++": {
+      "usageCount": 1,
+      "lastUsed": 1786277112102
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1786277111778
+    },
+    "CMakeLists.txt": {
+      "usageCount": 1,
+      "lastUsed": 1786277111451
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/shorin/Programming/clion/CMakeLists.txt",
+    "/home/shorin/Programming/clion/test.h",
+    "/home/shorin/Programming/clion/main.cpp"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="3" lastUsage="1786277733821" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="1" lastUsage="1786277111452" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="clion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shorin/Programming/clion}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shorin/Programming/clion}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shorin/Programming/clion}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug-覆盖率}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="clion" />
+            <item name="clion" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="clion" />
+              <item name="dir{file:///home/shorin/Programming/clion}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="cmake-build-debug" />
+                <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/.cmake" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".cmake" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug/.cmake}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="CMakeFiles" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug/CMakeFiles}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/Testing" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="Testing" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug/Testing}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".ninja_deps" />
+                  <item name=".ninja_deps" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/.ninja_log" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".ninja_log" />
+                  <item name=".ninja_log" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/build.ninja" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="build.ninja" />
+                  <item name="build.ninja" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/clion" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="clion" />
+                  <item name="clion" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.cmake" isLeaf="true" text="cmake_install.cmake" />
+                  <item name="cmake_install.cmake" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/config.svg" iconPlugin="com.intellij" isLeaf="true" text="CMakeCache.txt" />
+                  <item name="CMakeCache.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="compile_commands.json" />
+                  <item name="compile_commands.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="cmake-build-debug-覆盖率" />
+                <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug-覆盖率}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/.cmake" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".cmake" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug-覆盖率/.cmake}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/CMakeFiles" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="CMakeFiles" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug-覆盖率/CMakeFiles}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/Testing" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="Testing" />
+                  <item name="dir{file:///home/shorin/Programming/clion/cmake-build-debug-覆盖率/Testing}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/.ninja_deps" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".ninja_deps" />
+                  <item name=".ninja_deps" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/.ninja_log" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".ninja_log" />
+                  <item name=".ninja_log" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/build.ninja" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="build.ninja" />
+                  <item name="build.ninja" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/clion" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="clion" />
+                  <item name="clion" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/clion.profraw" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="clion.profraw" />
+                  <item name="clion.profraw" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/cmake_install.cmake" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.cmake" isLeaf="true" text="cmake_install.cmake" />
+                  <item name="cmake_install.cmake" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/CMakeCache.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/config.svg" iconPlugin="com.intellij" isLeaf="true" text="CMakeCache.txt" />
+                  <item name="CMakeCache.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug-覆盖率/compile_commands.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="compile_commands.json" />
+                  <item name="compile_commands.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.cmake" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main.cpp" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.cidr.lang.base.icons" iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="main.cpp" />
+                <item name="main.cpp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test.h" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.cidr.lang.base.icons" iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="test.h" />
+                <item name="test.h" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="外部库" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="临时文件和控制台" />
+              <item name="临时文件和控制台" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake 应用程序.clion" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2408854" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.31386515" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.31386515" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.31386515" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.31386515" left="0.2408854" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="283" key="GridCell.Tab.0.bottom" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.0.center" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.0.left" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.0.right" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.1.bottom" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.1.center" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.1.left" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.1.right" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.2.bottom" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.2.center" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.2.left" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.2.right" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.3.bottom" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.3.center" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.3.left" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.3.right" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.4.bottom" timestamp="1786277807434">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.4.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807434" />
+    <state width="1838" height="283" key="GridCell.Tab.4.center" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.4.center/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.4.left" timestamp="1786277807433">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.4.left/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807433" />
+    <state width="1838" height="283" key="GridCell.Tab.4.right" timestamp="1786277807434">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="283" key="GridCell.Tab.4.right/0.27.1920.1053@0.27.1920.1053" timestamp="1786277807434" />
+    <state x="854" y="174" width="1022" height="734" key="SettingsEditor" timestamp="1786277437216">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="854" y="174" width="1022" height="734" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1786277437216" />
+    <state x="868" y="227" width="994" height="632" key="UniversalFileChooserDialog" timestamp="1786277315032">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="868" y="227" width="994" height="632" key="UniversalFileChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1786277315032" />
+    <state x="692" y="434" width="536" height="243" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1786277803746">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="692" y="434" width="536" height="243" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1786277803746" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/test.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1786277777083" expanded="true" signature="0:39" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

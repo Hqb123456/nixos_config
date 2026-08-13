@@ -1,0 +1,8 @@
+===================================================
+Persepolis Download Manager, 2026/06/18 20:56:40
+2026-06-18 20:57:12,488 - downloads - ERROR - Error - 'content-length' - GID: 1a17250cacd0b809
+2026-06-18 20:57:12,490 - downloads - ERROR - Server dosn't support multi thread downloading and resuming download! - GID: 1a17250cacd0b809
+2026-06-18 20:57:12,597 - downloads - INFO - Download starts! - GID:1a17250cacd0b809
+2026-06-18 20:57:19,598 - downloads - INFO - Download complete. - GID: 1a17250cacd0b809
+2026-06-18 20:57:19,647 - downloads - INFO - Download complete - GID : 1a17250cacd0b809
+2026-06-18 20:57:20,493 - downloads - INFO - persepolis_lib is closed!

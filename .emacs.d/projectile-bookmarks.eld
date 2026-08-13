@@ -1,0 +1,1 @@
+("~/shorin_nixos_file/" "~/shorin_nixos_file/dotfile_config/nvim/" "~/.config/nvim/" "~/temp/niri-glass/Niri-glass/" "~/Programming/class/" "/sudo:root@localhost:/etc/nixos/" "~/Programming/test/" "/sudo:root@localhost:/home/shorin/project/class/" "/etc/nixos/")
